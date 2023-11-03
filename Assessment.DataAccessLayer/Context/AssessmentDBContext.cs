@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Assessment.DataAccessLayer.Configuration;
 using Assessment.DataAccessLayer.Models.SET;
+using Assessment.DataAccessLayer.Data;
 
 namespace Assessment.DataAccessLayer.Context
 {
@@ -39,7 +40,9 @@ namespace Assessment.DataAccessLayer.Context
                 // ... other configurations ...
             });
 
-
+#if DEBUG
+            Seed.SeedData(modelBuilder);
+#endif
         }
     }
 }
