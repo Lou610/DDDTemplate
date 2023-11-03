@@ -16,6 +16,12 @@ Run the the Data Access Layer application. The project is a console application 
 
 Ensure that you have setup your ConnectionString for your project.
 
+## Configuration
+
+Ensure appsettings.json is in place.
+
+CORS has been setup with API versioning and if you plan on using this with a front end like Angular or React the CORS setup is already done.
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
