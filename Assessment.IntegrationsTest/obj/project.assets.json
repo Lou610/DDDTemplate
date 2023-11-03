@@ -992,11 +992,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Meeper\\source\\repos\\Assessment\\Assessment.IntegrationsTest\\Assessment.IntegrationsTest.csproj",
+      "projectUniqueName": "E:\\Code\\API\\DDDTemplate\\Assessment.IntegrationsTest\\Assessment.IntegrationsTest.csproj",
       "projectName": "Assessment.IntegrationsTest",
-      "projectPath": "C:\\Users\\Meeper\\source\\repos\\Assessment\\Assessment.IntegrationsTest\\Assessment.IntegrationsTest.csproj",
+      "projectPath": "E:\\Code\\API\\DDDTemplate\\Assessment.IntegrationsTest\\Assessment.IntegrationsTest.csproj",
       "packagesPath": "C:\\Users\\Meeper\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Meeper\\source\\repos\\Assessment\\Assessment.IntegrationsTest\\obj\\",
+      "outputPath": "E:\\Code\\API\\DDDTemplate\\Assessment.IntegrationsTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Meeper\\AppData\\Roaming\\NuGet\\NuGet.Config",

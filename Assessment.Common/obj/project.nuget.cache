@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hPge8A8YL0EYwdFCn+UgnANOVsy9X0G7E0LxTNFOjcaNPr7OSPbg9j39eVmhPRs592zkozd/08rtd8m1jg9RGQ==",
+  "dgSpecHash": "RIg8QZ8T3/mYLlnBrA+rApxBfFetdBdzhSL2fSdsrC9rnzzUbz/bAjzhN1GLD88BeTCYVoSP/oyfb6NGayA6zw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Meeper\\source\\repos\\Assessment\\Assessment.Common\\Assessment.Common.csproj",
+  "projectFilePath": "E:\\Code\\API\\DDDTemplate\\Assessment.Common\\Assessment.Common.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

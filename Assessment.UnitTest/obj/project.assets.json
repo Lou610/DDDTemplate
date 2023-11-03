@@ -992,11 +992,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Meeper\\source\\repos\\Assessment\\Assessment.UnitTest\\Assessment.UnitTest.csproj",
+      "projectUniqueName": "E:\\Code\\API\\DDDTemplate\\Assessment.UnitTest\\Assessment.UnitTest.csproj",
       "projectName": "Assessment.UnitTest",
-      "projectPath": "C:\\Users\\Meeper\\source\\repos\\Assessment\\Assessment.UnitTest\\Assessment.UnitTest.csproj",
+      "projectPath": "E:\\Code\\API\\DDDTemplate\\Assessment.UnitTest\\Assessment.UnitTest.csproj",
       "packagesPath": "C:\\Users\\Meeper\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Meeper\\source\\repos\\Assessment\\Assessment.UnitTest\\obj\\",
+      "outputPath": "E:\\Code\\API\\DDDTemplate\\Assessment.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Meeper\\AppData\\Roaming\\NuGet\\NuGet.Config",

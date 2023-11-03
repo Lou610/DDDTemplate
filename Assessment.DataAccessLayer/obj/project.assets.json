@@ -3830,11 +3830,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Meeper\\source\\repos\\Assessment\\Assessment.DataAccessLayer\\Assessment.DataAccessLayer.csproj",
+      "projectUniqueName": "E:\\Code\\API\\DDDTemplate\\Assessment.DataAccessLayer\\Assessment.DataAccessLayer.csproj",
       "projectName": "Assessment.DataAccessLayer",
-      "projectPath": "C:\\Users\\Meeper\\source\\repos\\Assessment\\Assessment.DataAccessLayer\\Assessment.DataAccessLayer.csproj",
+      "projectPath": "E:\\Code\\API\\DDDTemplate\\Assessment.DataAccessLayer\\Assessment.DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\Meeper\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Meeper\\source\\repos\\Assessment\\Assessment.DataAccessLayer\\obj\\",
+      "outputPath": "E:\\Code\\API\\DDDTemplate\\Assessment.DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Meeper\\AppData\\Roaming\\NuGet\\NuGet.Config",

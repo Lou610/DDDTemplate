@@ -7532,11 +7532,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Meeper\\source\\repos\\Assessment\\Assessment.API\\Assessment.API.csproj",
+      "projectUniqueName": "E:\\Code\\API\\DDDTemplate\\Assessment.API\\Assessment.API.csproj",
       "projectName": "Assessment.API",
-      "projectPath": "C:\\Users\\Meeper\\source\\repos\\Assessment\\Assessment.API\\Assessment.API.csproj",
+      "projectPath": "E:\\Code\\API\\DDDTemplate\\Assessment.API\\Assessment.API.csproj",
       "packagesPath": "C:\\Users\\Meeper\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Meeper\\source\\repos\\Assessment\\Assessment.API\\obj\\",
+      "outputPath": "E:\\Code\\API\\DDDTemplate\\Assessment.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Meeper\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7553,14 +7553,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Meeper\\source\\repos\\Assessment\\Assessment.BusinessApplicationLayer\\Assessment.BusinessApplicationLayer.csproj": {
-              "projectPath": "C:\\Users\\Meeper\\source\\repos\\Assessment\\Assessment.BusinessApplicationLayer\\Assessment.BusinessApplicationLayer.csproj"
+            "E:\\Code\\API\\DDDTemplate\\Assessment.BusinessApplicationLayer\\Assessment.BusinessApplicationLayer.csproj": {
+              "projectPath": "E:\\Code\\API\\DDDTemplate\\Assessment.BusinessApplicationLayer\\Assessment.BusinessApplicationLayer.csproj"
             },
-            "C:\\Users\\Meeper\\source\\repos\\Assessment\\Assessment.Common\\Assessment.Common.csproj": {
-              "projectPath": "C:\\Users\\Meeper\\source\\repos\\Assessment\\Assessment.Common\\Assessment.Common.csproj"
+            "E:\\Code\\API\\DDDTemplate\\Assessment.Common\\Assessment.Common.csproj": {
+              "projectPath": "E:\\Code\\API\\DDDTemplate\\Assessment.Common\\Assessment.Common.csproj"
             },
-            "C:\\Users\\Meeper\\source\\repos\\Assessment\\Assessment.DataAccessLayer\\Assessment.DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\Meeper\\source\\repos\\Assessment\\Assessment.DataAccessLayer\\Assessment.DataAccessLayer.csproj"
+            "E:\\Code\\API\\DDDTemplate\\Assessment.DataAccessLayer\\Assessment.DataAccessLayer.csproj": {
+              "projectPath": "E:\\Code\\API\\DDDTemplate\\Assessment.DataAccessLayer\\Assessment.DataAccessLayer.csproj"
             }
           }
         }
