@@ -1,0 +1,11 @@
+C:\Users\Meeper\source\repos\Assessment\Assessment.Common\bin\Debug\net6.0\Assessment.Common.deps.json
+C:\Users\Meeper\source\repos\Assessment\Assessment.Common\bin\Debug\net6.0\Assessment.Common.dll
+C:\Users\Meeper\source\repos\Assessment\Assessment.Common\bin\Debug\net6.0\Assessment.Common.pdb
+C:\Users\Meeper\source\repos\Assessment\Assessment.Common\obj\Debug\net6.0\Assessment.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meeper\source\repos\Assessment\Assessment.Common\obj\Debug\net6.0\Assessment.Common.AssemblyInfoInputs.cache
+C:\Users\Meeper\source\repos\Assessment\Assessment.Common\obj\Debug\net6.0\Assessment.Common.AssemblyInfo.cs
+C:\Users\Meeper\source\repos\Assessment\Assessment.Common\obj\Debug\net6.0\Assessment.Common.csproj.CoreCompileInputs.cache
+C:\Users\Meeper\source\repos\Assessment\Assessment.Common\obj\Debug\net6.0\Assessment.Common.dll
+C:\Users\Meeper\source\repos\Assessment\Assessment.Common\obj\Debug\net6.0\refint\Assessment.Common.dll
+C:\Users\Meeper\source\repos\Assessment\Assessment.Common\obj\Debug\net6.0\Assessment.Common.pdb
+C:\Users\Meeper\source\repos\Assessment\Assessment.Common\obj\Debug\net6.0\ref\Assessment.Common.dll
