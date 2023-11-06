@@ -1,4 +1,4 @@
-# Domain Driven Design Assessment Template
+# KronoWeave Boiler Template
 
 This project is your typical DDD pattern project with proper scaffolding in place.
 
